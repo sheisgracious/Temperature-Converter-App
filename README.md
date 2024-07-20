@@ -1,4 +1,5 @@
 # Temperature Converter Mobile App
+Simple Swift project that converts from Fahrenheit to Celcius and vice versa
 
 ## Tech/framework used
 Built with Swift
